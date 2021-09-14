@@ -16,8 +16,8 @@ pipeline {
 
      silentResponse: false,
 
-     regexpFilterText: '$ref',
-     regexpFilterExpression: 'refs/remotes/origin/8.0'
+//      regexpFilterText: '$ref',
+//      regexpFilterExpression: 'refs/remotes/origin/8.0'
     )
   }
   stages {
