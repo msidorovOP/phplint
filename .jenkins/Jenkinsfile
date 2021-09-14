@@ -2,7 +2,7 @@ pipeline {
   agent any
   triggers {
     GenericTrigger(
-     genericVariables: [
+     genericVariables1: [
       [key: 'ref', value: '$.ref']
      ],
 
