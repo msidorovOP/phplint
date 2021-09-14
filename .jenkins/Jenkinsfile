@@ -17,7 +17,7 @@ pipeline {
      silentResponse: false,
 
      regexpFilterText: '$ref',
-     regexpFilterExpression: 'refs/remotes/origin/master' + BRANCH_NAME
+     regexpFilterExpression: 'refs/remotes/origin/8.0' + BRANCH_NAME
     )
   }
   stages {
