@@ -164,3 +164,4 @@ by setting the `warning` to true in the configuration.
 ## License
 
 MIT
+
